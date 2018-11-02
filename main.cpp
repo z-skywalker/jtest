@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "This is a jenkins test." << std::endl;
+    std::cout << "This is a branch." << std::endl;
     return 0;
 }
